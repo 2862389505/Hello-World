@@ -43,5 +43,12 @@ id sem consectetuer libero luctus adipiscing.
 
   -feature-A
   -fix-B
-  -feature-C
+  -feature-C### 仅仅用于测试
+````ruby
+def hello_world
+   puts 'Hello World ! '
+end
+````
+  
+  
 
